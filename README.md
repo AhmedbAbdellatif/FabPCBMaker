@@ -9,7 +9,15 @@ In this page I will be providing Information on how to replicate this along with
 <img src="Media/IMG_8272.JPG" width="70%">
 
 ## Specifications
-
+* 100x160x50mm working area
+* 0.0025mm theorethical resolution (0.04mm realistic)
+* 18mm plywood cnc milled frame
+* POM bearing and motor holder
+* brushless apindle motor
+* 3 x Pololu A4988
+* 3 x Nema 17 threaded rod stepper motors
+* 8mm linear rods
+* satshakit board
 
 
 ## Thanks 
