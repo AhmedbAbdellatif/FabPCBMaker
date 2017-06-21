@@ -21,10 +21,11 @@ In this page I will be providing Information on how to replicate this along with
 
 
 ## Thanks 
-[Daniele Ingrassia](https://github.com/satshas/satshakit/)<br />
+Daniele Ingrassia
+[Satshakit](https://github.com/satshakit)<br />
 
-Fablab Kamp-Lintfort
-Hochschule Rhein-Waal
+[FabLab Kamp-Lintfort](http://fablab.hochschule-rhein-waal.de/index.php/en/)<br />
+[Hochschule Rhein-Waal](https://www.hochschule-rhein-waal.de/en)<br />
 Friedrich-Heinrich-Allee 25, 47475 Kamp-Lintfort, Germany
 fablab@hochschule-rhein-waal.de
 ## License
