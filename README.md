@@ -6,7 +6,7 @@ A fabbable, cheap, light and small CNC for PCBs
 ## Project Development
 I developed this project as a final project for FabAcademy 2017. My idea was to make it possible to make a CNC mill for PCBs in a FabLab at an as low as possible cost (less than 100€). 
 In this page I will be providing Information on how to replicate this along with the design files required  
-<img src="Media/IMG_8272.jpg" width="70%">
+<img src="Media/IMG_8272.JPG" width="70%">
 
 ## Thanks 
 Daniele Ingrassia
