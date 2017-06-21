@@ -21,7 +21,7 @@ In this page I will be providing Information on how to replicate this along with
 
 
 ## Thanks 
-Daniele Ingrassia
+[Daniele Ingrassia](https://github.com/satshas/satshakit/)<br />
 
 Fablab Kamp-Lintfort
 Hochschule Rhein-Waal
