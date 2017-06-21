@@ -15,6 +15,7 @@ Friedrich-Heinrich-Allee 25, 47475 Kamp-Lintfort, Germany
 fablab@hochschule-rhein-waal.de
 
 ## License
+This work is licensed under the terms of Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ## Disclaimer
 
