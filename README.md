@@ -13,7 +13,7 @@ In this page I will be providing Information on how to replicate this along with
 * 0.0025mm theorethical resolution (0.04mm realistic)
 * 18mm plywood cnc milled frame
 * POM bearing and motor holder
-* brushless apindle motor
+* brushless spindle motor
 * 3 x Pololu A4988
 * 3 x Nema 17 threaded rod stepper motors
 * 8mm linear rods
