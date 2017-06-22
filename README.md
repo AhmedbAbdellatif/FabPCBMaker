@@ -31,4 +31,8 @@ fablab@hochschule-rhein-waal.de
 ## License
 This work is licensed under the terms of Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
+## Authors  
+Ahmed B.Abdellatif<br />
+Student Assistant at FabLab Kamp-Lintfort<br />
+Communication and Information Engineering student Hochschule Rhein-Waal<br />
 
